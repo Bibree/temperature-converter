@@ -2,7 +2,11 @@
 Converts from F to C in degrees (java program)
 
 
+git pull
+// grab the data frim the repository 
 git init
+//initializing git repo with your folder you selected 
+* work on your files
 //makes changes to program
 git status
 //get changes you made
